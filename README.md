@@ -21,7 +21,7 @@
 Run this command:
 
 ```
-wget https://raw.githubusercontent.com/sons-of-liberty/DRAGON-VPS-MANAGER/main/hehe; chmod 777 hehe;./hehe
+wget https://raw.githubusercontent.com/amir9213/DRAGON-VPS-MANAGER/main/hehe; chmod 777 hehe;./hehe
 
 ```
 Once the installation is complete, run:
